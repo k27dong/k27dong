@@ -1,8 +1,7 @@
 ```
-Working for: BetterUp Inc
-Email: me@kefan.me
-Blog: kefan.me
-Living in Toronto, Canada
-----------------------------------------------------------------
-Leetcode: 
+@uWaterloo, @BetterUp
+
+Website:  kefan.me
+Email:    me@kefan.me
+Leetcode: 87
 ```
