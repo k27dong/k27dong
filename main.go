@@ -58,12 +58,12 @@ func updateGithub() {
 
 // 生成README.md文件
 func createWriteFile(mdContent string) {
-	if !checkFileIsExist("README.MD") {
-		f, err := os.Create("README.MD") //创建文件
+	if !checkFileIsExist("README.md") {
+		f, err := os.Create("README.md") //创建文件
 		checkErr(err)
 		f.Close()
 	}
-	f, err := os.OpenFile("README.MD", os.O_WRONLY|os.O_TRUNC, 0600)
+	f, err := os.OpenFile("README.md", os.O_WRONLY|os.O_TRUNC, 0600)
 	checkErr(err)
 	defer f.Close()
 	_, err = f.Write([]byte(mdContent))
