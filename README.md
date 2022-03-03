@@ -4,8 +4,8 @@
 Locale:    Toronto, CA
 Website:   kefan.me
 Email:     me@kefan.me
-Leetcode:  133
-    Easy: 94
+Leetcode:  134
+    Easy: 95
     Medium: 36
     Hard: 3
 ```
