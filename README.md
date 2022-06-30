@@ -5,7 +5,7 @@ Locale:    Toronto, CA
 Website:   kefan.me
 Email:     me@kefan.me
 Leetcode:  144
-    Easy: 105
-    Medium: 36
+    Easy: 104
+    Medium: 37
     Hard: 3
 ```
