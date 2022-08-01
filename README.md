@@ -1,10 +1,10 @@
 ```
-@uWaterloo, @BetterUp
+@uWaterloo, @Autodesk
 
 Locale:    Toronto, CA
 Website:   kefan.me
 Email:     me@kefan.me
-Leetcode:  144
+Leetcode: 144
     Easy: 103
     Medium: 38
     Hard: 3
