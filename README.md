@@ -1,7 +1,7 @@
 ```
-@uWaterloo, @Autodesk
+@HeyGen, @uWaterloo
 
-Locale:    Toronto, CA
+Locale:    San Francisco
 Website:   kefan.me
 Email:     me@kefan.me
 ```
